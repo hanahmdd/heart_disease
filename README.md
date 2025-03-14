@@ -25,19 +25,19 @@ Make sure you have **Python** installed, then install the required libraries by 
 pip install numpy pandas matplotlib seaborn 
 ### **3️⃣ Run the Jupyter Notebook**
 Since this project is in a Jupyter Notebook format (heart.ipynb), open it using:
-jupyter notebook heart.ipynb
-📊 Data Analysis & Visualization
+jupyter notebook heart.ipynb <br>
+📊 Data Analysis & Visualization <br>
 📌 Data Preprocessing <br>  Displays dataset structure, columns, and descriptive statistics.
-Handles missing values by filling them with the mean.
-Identifies and removes outliers in the chol (cholesterol) column.
+Handles missing values by filling them with the mean. <br>
+Identifies and removes outliers in the chol (cholesterol) column. <br>
 📌 Key Statistical Findings <br>
--Cholesterol Mean: X
--Cholesterol Median: X
--Max Heart Rate: X
--Patients with Cholesterol Above 300: X
--Patients Older than 60 with Abnormal ECG: X
+-Cholesterol Mean: X <br>
+-Cholesterol Median: X <br>
+-Max Heart Rate: X <br>
+-Patients with Cholesterol Above 300: X <br>
+-Patients Older than 60 with Abnormal ECG: X <br>
 📌 Visualizations <br>
-#### **1️⃣ Cholesterol Distribution Histogram**
+#### **1️⃣ Cholesterol Distribution Histogram** 
 #### **2️⃣ Scatter Plot: Age vs Max Heart Rate**
 #### **3️⃣ Bar Chart: Heart Disease Cases**
 #### **4️⃣ 3D Scatter Plot: Cholesterol vs Age vs Disease**
