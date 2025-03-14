@@ -27,8 +27,7 @@ pip install numpy pandas matplotlib seaborn
 Since this project is in a Jupyter Notebook format (heart.ipynb), open it using:
 jupyter notebook heart.ipynb
 📊 Data Analysis & Visualization
-📌 Data Preprocessing␣␣
-Displays dataset structure, columns, and descriptive statistics.
+📌 Data Preprocessing  Displays dataset structure, columns, and descriptive statistics.
 Handles missing values by filling them with the mean.
 Identifies and removes outliers in the chol (cholesterol) column.
 📌 Key Statistical Findings
