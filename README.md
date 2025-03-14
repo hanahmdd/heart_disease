@@ -44,4 +44,11 @@ Patients Older than 60 with Abnormal ECG: X
 2️⃣ Scatter Plot: Age vs Max Heart Rate
 3️⃣ Bar Chart: Heart Disease Cases
 4️⃣ 3D Scatter Plot: Cholesterol vs Age vs Disease
+5️⃣ Pie Chart: Chest Pain Type Distribution
+
+🏁 Results & Insights
+*Patients with high cholesterol are more prone to heart disease.
+*Elderly patients with abnormal ECG readings often have higher risks.
+*The maximum heart rate decreases with age.
+📢: Implement machine learning models to predict heart disease risk.
 
