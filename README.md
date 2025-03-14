@@ -29,6 +29,7 @@ pip install numpy pandas matplotlib seaborn
 Since this project is in a Jupyter Notebook format (heart.ipynb), open it using:
 jupyter notebook heart.ipynb <br>
 📊 Data Analysis & Visualization <br>
+<br>
 📌 Data Preprocessing <br>
 <br>
 Displays dataset structure, columns, and descriptive statistics.
