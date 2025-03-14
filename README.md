@@ -19,7 +19,7 @@ To run this project, follow these steps:
 ```bash
 git clone https://github.com/hanahmdd/heart-disease-analysis.git
 cd heart_disease
-2️⃣ Install Dependencies
+### **2️⃣ Install Dependencies **
 Make sure you have Python installed, then install the required libraries:
 pip install numpy pandas matplotlib seaborn
 3️⃣ Run the Jupyter Notebook
