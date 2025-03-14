@@ -59,5 +59,6 @@ Identifies and removes outliers in the chol (cholesterol) column. <br>
 #### **Patients with high cholesterol are more prone to heart disease.**
 #### **Elderly patients with abnormal ECG readings often have higher risks.**
 #### **The maximum heart rate decreases with age.**
-#### ** 📢: Implement machine learning models to predict heart disease risk.**
+<br>
+ 📢: Implement machine learning models to predict heart disease risk.
 
