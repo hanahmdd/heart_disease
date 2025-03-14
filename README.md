@@ -38,15 +38,15 @@ Identifies and removes outliers in the chol (cholesterol) column. <br>
 <br>
 📌 Key Statistical Findings <br>
 <br>
--Cholesterol Mean: X <br>
+-Cholesterol Mean  <br>
 <br>
--Cholesterol Median: X <br>
+-Cholesterol Median  <br>
 <br>
--Max Heart Rate: X <br>
+-Max Heart Rate  <br>
 <br>
--Patients with Cholesterol Above 300: X <br>
+-Patients with Cholesterol Above 300 <br>
 <br>
--Patients Older than 60 with Abnormal ECG: X <br>
+-Patients Older than 60 with Abnormal ECG <br>
 <br>
 📌 Visualizations <br>
 #### **1️⃣ Cholesterol Distribution Histogram** 
