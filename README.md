@@ -32,21 +32,21 @@ Displays dataset structure, columns, and descriptive statistics.
 Handles missing values by filling them with the mean.
 Identifies and removes outliers in the chol (cholesterol) column.
 📌 Key Statistical Findings
-Cholesterol Mean: X
-Cholesterol Median: X
-Max Heart Rate: X
-Patients with Cholesterol Above 300: X
-Patients Older than 60 with Abnormal ECG: X
+-Cholesterol Mean: X
+-Cholesterol Median: X
+-Max Heart Rate: X
+-Patients with Cholesterol Above 300: X
+-Patients Older than 60 with Abnormal ECG: X
 📌 Visualizations
-1️⃣ Cholesterol Distribution Histogram
-2️⃣ Scatter Plot: Age vs Max Heart Rate
-3️⃣ Bar Chart: Heart Disease Cases
-4️⃣ 3D Scatter Plot: Cholesterol vs Age vs Disease
-5️⃣ Pie Chart: Chest Pain Type Distribution
+-1️⃣ Cholesterol Distribution Histogram
+-2️⃣ Scatter Plot: Age vs Max Heart Rate
+-3️⃣ Bar Chart: Heart Disease Cases
+-4️⃣ 3D Scatter Plot: Cholesterol vs Age vs Disease
+-5️⃣ Pie Chart: Chest Pain Type Distribution
 
 🏁 Results & Insights
-*Patients with high cholesterol are more prone to heart disease.
-*Elderly patients with abnormal ECG readings often have higher risks.
-*The maximum heart rate decreases with age.
+-Patients with high cholesterol are more prone to heart disease.
+-Elderly patients with abnormal ECG readings often have higher risks.
+-The maximum heart rate decreases with age.
 📢: Implement machine learning models to predict heart disease risk.
 
