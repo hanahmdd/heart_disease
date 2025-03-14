@@ -37,7 +37,7 @@ Identifies and removes outliers in the chol (cholesterol) column.
 -Max Heart Rate: X
 -Patients with Cholesterol Above 300: X
 -Patients Older than 60 with Abnormal ECG: X
-📌 Visualizations
+### **📌 Visualizations
 #### **1️⃣ Cholesterol Distribution Histogram**
 #### **2️⃣ Scatter Plot: Age vs Max Heart Rate**
 #### **3️⃣ Bar Chart: Heart Disease Cases**
