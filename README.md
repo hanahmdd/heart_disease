@@ -27,16 +27,16 @@ pip install numpy pandas matplotlib seaborn
 Since this project is in a Jupyter Notebook format (heart.ipynb), open it using:
 jupyter notebook heart.ipynb
 📊 Data Analysis & Visualization
-📌 Data Preprocessing  Displays dataset structure, columns, and descriptive statistics.
+📌 Data Preprocessing <br>  Displays dataset structure, columns, and descriptive statistics.
 Handles missing values by filling them with the mean.
 Identifies and removes outliers in the chol (cholesterol) column.
-📌 Key Statistical Findings
+📌 Key Statistical Findings <br>
 -Cholesterol Mean: X
 -Cholesterol Median: X
 -Max Heart Rate: X
 -Patients with Cholesterol Above 300: X
 -Patients Older than 60 with Abnormal ECG: X
-📌 Visualizations
+📌 Visualizations <br>
 #### **1️⃣ Cholesterol Distribution Histogram**
 #### **2️⃣ Scatter Plot: Age vs Max Heart Rate**
 #### **3️⃣ Bar Chart: Heart Disease Cases**
